@@ -1,2 +1,7 @@
 /flask_env
 /microblog.py
+.flaskenv
+__pycache__/config.cpython-311.pyc
+__pycache__/microblog.cpython-311.pyc
+app/__pycache__/forms.cpython-311.pyc
+app/__pycache__/routes.cpython-311.pyc
